@@ -1,0 +1,2 @@
+This sentence was written in github.
+We will going to learn how to push to remote repository using Git Bash
